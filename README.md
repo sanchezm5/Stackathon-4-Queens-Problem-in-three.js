@@ -12,7 +12,7 @@ is represented by a cube. There may be more than one solution.
 ## Moving the Cubes
 
 To move the cubes left, up, down, and right, respectively
-For first cube: use keys 1, 2, 3, and 4
-For second cube: use keys q, w, e, and r
-For third cube: use keys a, s, d, and f
-For fourth cube: use keys z, x, c, and v
+*For first cube: use keys 1, 2, 3, and 4
+*For second cube: use keys q, w, e, and r
+*For third cube: use keys a, s, d, and f
+*For fourth cube: use keys z, x, c, and v
